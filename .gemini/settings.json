@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "local-fastmcp": {
+      "command": "python",
+      "args": [
+        "server.py"
+      ]
+    }
+  }
+}

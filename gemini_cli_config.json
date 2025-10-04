@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "FastAPI MCP Server": {
+      "command": "python",
+      "args": ["C:\\Users\\admin\\Desktop\\MCP\\fastapi_mcp_server.py", "mcp"],
+      "env": {}
+    }
+  }
+}

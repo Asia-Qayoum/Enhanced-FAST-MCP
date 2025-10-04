@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "My MCP Server": {
+      "command": "python",
+      "args": ["C:\\Users\\admin\\Desktop\\MCP\\server.py"]
+    }
+  }
+}
